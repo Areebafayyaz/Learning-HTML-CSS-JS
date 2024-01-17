@@ -1,0 +1,16 @@
+p {
+color: white;
+background: red;
+font-style:italic;
+
+}
+
+.Areeba{
+width:100px;
+height:100px;
+background:blue;
+margin: 10px;
+padding: 10px;
+border: 3px solid black;
+float: left;
+}
